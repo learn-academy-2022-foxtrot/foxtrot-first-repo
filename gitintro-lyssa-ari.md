@@ -10,6 +10,6 @@ Round One
 
 Round Two
 
-          | O|
+         O| O|
          X|  |
           |  |
