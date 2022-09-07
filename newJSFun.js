@@ -1,6 +1,11 @@
 x = 'guan'
-y = 'newGirl'
+y = 'newWife'
 
-var fate = x + y
+var fate = x +" "+ y
 
 console.log(fate)
+
+
+
+
+
