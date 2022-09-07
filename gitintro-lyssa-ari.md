@@ -1,1 +1,3 @@
-This is our first test! :) 
+This is our first test! :)
+
+Coding is super fun (frustrating)! (:
