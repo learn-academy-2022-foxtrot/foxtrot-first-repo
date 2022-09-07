@@ -4,6 +4,6 @@ Coding is super fun (frustrating)! (:
 
 Round One
 
-         O|  |X
+         O| X|X
          X| O|O
           |  |X
