@@ -11,5 +11,5 @@ Round One
 Round Two
 
           | O|
-          |  |
+         X|  |
           |  |
