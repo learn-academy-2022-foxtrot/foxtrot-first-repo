@@ -6,4 +6,4 @@ Round One
 
          O| X|X
          X| O|O
-          | 0|X
+         X| 0|X
