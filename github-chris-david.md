@@ -16,7 +16,7 @@ I need another monitor
 
 <tbl> table here </tbl>
 
-<a href='https://www.amazon.com/Adapter-Thunderbolt-Converter-Compatible-MacBook/dp/B076X2XS9R/ref=asc_df_B076X2XS9R/?tag=hyprod-20&linkCode=df0&hvadid=309773039951&hvpos=&hvnetw=g&hvrand=76086300939953830&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017460&hvtargid=pla-568086311199&psc=1' type='_blank'> Click here for adapter</a>
+<a href='https://www.amazon.com/Adapter-Thunderbolt-Converter-Compatible-MacBook/dp/B076X2XS9R/ref=asc_df_B076X2XS9R/?tag=hyprod-20&linkCode=df0&hvadid=309773039951&hvpos=&hvnetw=g&hvrand=76086300939953830&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9017460&hvtargid=pla-568086311199&psc=1' target='_blank'> Click here for adapter</a>
 
 <ul> cars 
     <li>honda</li>
@@ -24,4 +24,4 @@ I need another monitor
     <li>pinto</li> 
 </ul>
 
-<button>Click here</button>
+<button type="text">Click here</button>
