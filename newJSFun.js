@@ -9,3 +9,4 @@ console.log(fate)
 
 
 
+console.log(1+2)
